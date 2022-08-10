@@ -1,0 +1,16 @@
+프로그래밍 표기법 (카멜, 파스칼, 스네이크, 헝가리안) ( v )
+Dry/Wet Code? ( v )
+형상관리란? ( v )
+Firebase ( v )
+GitHub 사용법 ( v )
+Random / Psuedo-Random ( v )
+한줄 다중변수 선언의 유래 ( v )
+C언어 프로토타입 ( v )
+프로시저
+ASCII 코드 
+PostMan ( v )
+
+
+DB 관련 
+
+정규화 / 반정규화
