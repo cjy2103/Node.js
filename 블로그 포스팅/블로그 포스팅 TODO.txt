@@ -1,8 +1,11 @@
 정보
 
-Node.js 정보 - Window 에서 Node.js 업데이트
+Node.js 정보 - Window 에서 Node.js 업데이트 ( v )
+
+Node.js란? ( v )
+
 
 
 오류
 
-Node.js Error - Cannot set headers after they are sent to the client
+Node.js Error - Cannot set headers after they are sent to the client ( v )
