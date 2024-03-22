@@ -33,8 +33,9 @@ app.get('/test', (req,res) => {
             if(error){
                 throw error
             }
-            console.log(`결과 ${JSON.stringify(results)}`)
-            res.send(results)
+            console.log(`결과 ${JSON.stringify(results[0])}`)
+
+            res.send(results[0])
         }
     )
 })
