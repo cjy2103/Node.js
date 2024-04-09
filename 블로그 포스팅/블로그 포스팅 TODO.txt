@@ -10,7 +10,7 @@ Node.js 기초 - Express 프레임워크로 서버 구축하기 / Express 세팅
  
 Node.js 기초 - MySQL 연동하기 / Node.js + Express + MySQL ( v )
 
-Node.js 기초 - Cassandra 연동하기 / Node.js + Express + Cassandra (  )
+Node.js 기초 - Cassandra 연동하기 / Node.js + Express + Cassandra ( v )
 
 오류
 
